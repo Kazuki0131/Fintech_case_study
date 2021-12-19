@@ -22,10 +22,15 @@
 
 ## Business Activities:
 * Since 2009, Square has provides digital payments solutions to small business. The first product of Square was Square Reader that accepts creadit card payments by connecting to mobile device connected to audio jack of mobile devices. 
+
 ![Square reader](image/Square_reader.jpeg)
+
 * The company also has created point-of-sale saoftware to enable small businesses accept card payments and assited them by providing cloud based analytics. The payment processing solutions and business analytics makes Square more competitive in the industry.
+
 ![Square POS](image/Square_POS.png)
+
 * In 2013, Square launched Cash App under the name "Square Cash". It allows users totransfer money to one another usingg a mobile phone app. In 2015, the company introduced Square Cash for business. In 2018, the app added support to allow users to trade bitcoin. In 2019, the app added support for stock trading in the US. The service had 70 million annual transacting users and generated $1.8 billion in gross profit in 2021.
+
 ![Cash App](image/Cash_App.jpeg)
 
 <br>
